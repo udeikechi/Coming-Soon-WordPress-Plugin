@@ -1,11 +1,11 @@
 <?php
 /**
   Plugin Name: IU Coming Soon Page
-  Plugin URI: https://webfactory.com/
+  Plugin URI: enter plugin URL
   Description: Displays a coming soon page with a countdown to all users except the administrator
   Author: Ikechi Ude
   Version: 1.0
-  Author URI: http://www.webfactoryltd.com/
+  Author URI: enter author's URL
   License: GPL2
  
   Copyright (c) 2020, Ikechi Ude 
